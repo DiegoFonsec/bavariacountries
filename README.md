@@ -1,3 +1,17 @@
+# App Countries - React
+
+_Aplicación web responsive para buscar y obtener información de paises; y todo gracias a un proveedor de microservicios API "restcountries"_
+
+## Comenzando 🚀
+
+_Dentro de la carpeta src/components se encuentran los archivos necesarios para el proyecto:_
+* Content: Contiene el Body del proyecto, alli tambien se consume el api de paises y se pasa a otros componentes.
+* Filters: Se encuentra los inputs del home necesarios para filtrar los registros del API por pais y continente.
+* ListData: Contiene las cards donde se visualizan los paises y los filtrados.
+* Country: Es una vista diferente al home donde se puede observar el pais seleccionado desde el home.
+
+### Instalación 🔧
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +82,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Reacj JS](https://es.reactjs.org/) - Libreira web usado
+* [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - Framework para el diseño de paginas responsive
+* [JSX](https://es.reactjs.org/docs/introducing-jsx.html) - Extensión del lenguaje JS.
+
+## Versionado 📌
+
+* **Diego Fonseca** - *Desarrollador* - [Fonseca](https://github.com/DiegoFonsec)
+
+
+
